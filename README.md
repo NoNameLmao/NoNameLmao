@@ -7,7 +7,9 @@ i'm emberglaze, i also go by my older nickname NoNameLmao.
 - 🧑‍💻 coding silly stuff in javascript and python
 - 🕐 gmt+3 moscow time (no daylight saving)
 
-# ❗ my noteworthy repos
+# ❗ my noteworthy repositories*
+
+*\* more seriously taken by me than the rest of my repos*
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NoNameLmao&repo=emberbot)](https://github.com/anuraghazra/github-readme-stats)
 
