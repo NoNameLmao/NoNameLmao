@@ -7,6 +7,15 @@ i'm emberglaze, i also go by my older nickname NoNameLmao.
 - 🧑‍💻 coding silly stuff in javascript and python
 - 🕐 gmt+3 moscow time (no daylight saving)
 
+## 📖 language proficiency
+
+- russian: native
+- english: b2
+
+source?
+
+![image](https://user-images.githubusercontent.com/68788282/233656511-59243e22-fd0e-42b2-a2f4-0a098af673d6.gif)
+
 # ❗ my noteworthy repositories*
 
 *\* more seriously taken by me than the rest of my repos*
