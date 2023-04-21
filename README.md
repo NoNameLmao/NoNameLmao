@@ -6,6 +6,7 @@ i'm emberglaze, i also go by my older nickname NoNameLmao.
 - 🖥️ a ton of experience about computers (windows, linux)
 - 🧑‍💻 coding silly stuff in javascript and python
 - 🕐 gmt+3 moscow time (no daylight saving)
+- 🤓 [pc and phone specs](https://github.com/NoNameLmao/NoNameLmao/blob/main/specs.md#-digital-devices-and-their-specs)
 
 ## 📖 language proficiency
 
