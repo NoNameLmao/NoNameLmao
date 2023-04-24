@@ -1,4 +1,4 @@
-# 💡 digital devices and their specs
+I # 💡 digital devices and their specs
 
 a list of what things i have and what their specs are
 
@@ -32,9 +32,9 @@ no m.2 💀
 
 ## Current phone
 
-- Model: Xiaomi Redmi Note 11 Pro 5G (2201116SG)
+- Xiaomi Redmi Note 11 Pro 5G (2201116SG)
   - Android 12
-  - MIUI: V13.0.4 (SLCRUXM)
+  - MIUI: V13.0.5 (SKCRUXM)
   - Internal storage: 128GB
   - RAM: 8GB
   - CPU: Qualcomm SM6375 Snapdragon 695 5G, 6 nm, 8 cores
