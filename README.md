@@ -11,7 +11,7 @@ i'm emberglaze, i also go by my older nickname NoNameLmao.
 ## 📖 language proficiency
 
 - russian: native
-- english: b2
+- english: c1
 
 source?
 
