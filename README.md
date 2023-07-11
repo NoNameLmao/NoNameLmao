@@ -25,8 +25,20 @@ source?
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NoNameLmao&repo=emberutils)](https://github.com/anuraghazra/github-readme-stats)
 
+# 🥱 my discord online status' meanings
+
+🟢 - im all free baby
+
+🟡 - away, but still online (or im from an android but i closed discord and its still running in the background)
+
+🔴 - literally "do not disturb"
+
+# 📢 mom im popular!1
+
+[YouTube channel](https://www.youtube.com/@emberglaze)
+
 # 🗣️ contacts
 
-- discord: emberglaze#9184 (active)
+- discord: emberglaze(#9184), active
 - email: emberglaze@duck.com (i barely check it)
 - guilded.gg: [/u/emberglaze](https://www.guilded.gg/u/emberglaze) (not really frequently checked)
