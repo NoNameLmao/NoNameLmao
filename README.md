@@ -2,7 +2,7 @@
 
 i'm emberglaze, i also go by my older nickname NoNameLmao.
 
-- 🐣 18 years old
+- 🐣 18 years old (discord thinks im underage btw)
 - 🖥️ a ton of experience about computers (windows, linux)
 - 🧑‍💻 coding silly stuff in javascript and python
 - 🕐 gmt+3 moscow time (no daylight saving)
@@ -39,6 +39,6 @@ source?
 
 # 🗣️ contacts
 
-- discord: emberglaze(#9184), active
+- discord: emberglaze(#9184), active (CURRENTLY DISABLED, SEE [THIS](superevents/19-07-2023.md), MY ALT: emberglaze.v2)
 - email: emberglaze@duck.com (i barely check it)
 - guilded.gg: [/u/emberglaze](https://www.guilded.gg/u/emberglaze) (not really frequently checked)
