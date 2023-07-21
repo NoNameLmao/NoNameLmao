@@ -26,15 +26,15 @@ no m.2 💀
 - 🤯 RAM: 2x 16GB DDR4 Kingston Fury 2666MHz
 - 🕸️ Motherboard: ASUS Prime H310M-K R2.0
 - 🫀 Power supply: VX Plus Series 500W
-- 💽 OS: Windows 11 21H2 x Ubuntu 22.04 DUALBOOT
+- 💽 OS: Windows 11 22H2
 - 👋 Monitor: HP 24f 1080p 75hz
-- 🔊 Speakers: some random Genius speakers from late 2000s i think
+- 🔊 Speakers: some random Genius speakers from 2000s i think
 
 ## Current phone
 
-- Xiaomi Redmi Note 11 Pro 5G (2201116SG)
-  - Android 12
-  - MIUI: V13.0.5 (SKCRUXM)
+- Xiaomi Redmi Note 11 Pro 5G (veux) (2201116SG)
+  - Android 13
+  - MIUI: V14.0.1 (TKCRUXM)
   - Internal storage: 128GB
   - RAM: 8GB
   - CPU: Qualcomm SM6375 Snapdragon 695 5G, 6 nm, 8 cores
