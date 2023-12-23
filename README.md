@@ -11,7 +11,7 @@ quick navigation for the lazy
 
 i'm emberglaze, i also go by my older nickname NoNameLmao
 
-- 🐣 18 years old (🍰 November 18th)
+- 🐣 19 years old (🍰 November 18th)
 - 🖥️ a ton of experience about computers (windows, linux)
 - 🧑‍💻 coding silly stuff in javascript/typescript and python
 - 🕐 gmt+3 moscow time (no daylight saving, cry about it)
