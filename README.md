@@ -30,7 +30,7 @@ source?
 
 *\* more seriously taken by me than the rest of my repos*
 
-[![emberbot](https://github-readme-stats.vercel.app/api/pin/?username=NoNameLmao&repo=emberbot)](https://github.com/anuraghazra/github-readme-stats)
+[![emberbot](https://github-readme-stats.vercel.app/api/pin/?username=NoNameLmao&repo=emberbot)](https://github.com/NoNameLmao/emberbot)
 
 # 🥱 my discord online status' meanings
 
