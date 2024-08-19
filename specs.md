@@ -1,40 +1,38 @@
-I # 💡 digital devices and their specs
+I # 💡 My current PC and phone, and specs
 
 a list of what things i have and what their specs are
 
-## Current PC
+## 💻 Current PC
 
-fun fact i've had a pc since i was 5 years old, this explains my deep interest in computers and stuff like that
+i've had a pc since i was 3 years old, which heavily fueled my computer addiction 🥰
 
 ### cpu and gpu
 
-- 🧠 CPU: Intel Core i5-9400F
-  - Cores: 6
-- 👀 GPU: AMD Radeon RX 570
+- 🧠 CPU: Intel Core i9-12900KF
+  - Cores: 16
+- 👀 GPU: AMD Radeon RX 6800
 
-### 💭 hard drives
+### hard drives
 
-- HDD: 500GB WDC
 - SSD:
-  - 1TB Samsung 870 QVO
-  - 500GB some npc ssd idk
+  - 2TB M.2 Netac NV5000 (win11)
+  - 1TB SATA Samsung 870 QVO (debian)
+- HDD: 8TB HGST Ultrastar He8 Helium
 
-no m.2 💀
+### the rest
 
-### misc
+- 🤯 RAM: 4x16GB Kingston Fury Beast 3200 MT/s
+- 🕸️ Motherboard: ASUS Prime B660M-A WIFI D4
+- 🫀 PSU: 800W GameMax VP-800-RGB-MODULAR
+- 💽 OS: Windows 11 24H2
+- 👋 Monitor: 1440p240hz Thunderobot LQ27F240L
+- 🔊 Speakers: some random Genius speakers from 2000s
 
-- 🤯 RAM: 2x 16GB DDR4 Kingston Fury 2666MHz
-- 🕸️ Motherboard: ASUS Prime H310M-K R2.0
-- 🫀 Power supply: VX Plus Series 500W
-- 💽 OS: Windows 11 22H2
-- 👋 Monitor: HP 24f 1080p 75hz
-- 🔊 Speakers: some random Genius speakers from 2000s i think
-
-## Current phone
+## 📱 Current phone
 
 - Xiaomi Redmi Note 11 Pro 5G (veux) (2201116SG)
-  - Android 13
-  - MIUI: V14.0.1 (TKCRUXM)
+  - Android 14
+  - ROM: LineageOS 21
   - Internal storage: 128GB
   - RAM: 8GB
   - CPU: Qualcomm SM6375 Snapdragon 695 5G, 6 nm, 8 cores
