@@ -1,4 +1,4 @@
-I # 💡 My current PC and phone, and specs
+# 💡 My current PC and phone, and specs
 
 a list of what things i have and what their specs are
 
